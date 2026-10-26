@@ -25,8 +25,8 @@ This job portal application provides a comprehensive platform for job searching 
 
 ### Backend (JobAppBackend)
 - **Framework**: Java Spring Boot
-- **Database**: (Specify your database - MySQL/PostgreSQL/MongoDB)
-- **Authentication**: (JWT/OAuth/Spring Security)
+- **Database**: PostgreSQL
+- **Authentication**: Spring Security
 - **API**: RESTful APIs
 
 ### Frontend (JobPortal Frontend)
@@ -60,7 +60,7 @@ JobPortalApplication/
 - Java JDK 11 or higher
 - Node.js 14+ and npm
 - Maven 3.6+
-- (Your database - MySQL/PostgreSQL)
+- (Your database - PostgreSQL)
 
 ### Backend Setup
 
